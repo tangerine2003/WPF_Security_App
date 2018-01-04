@@ -1,0 +1,2 @@
+C:\Users\Chris Clifton\AppData\Local\Temporary Projects\WPF Camera App\bin\Debug\WPF Camera App.exe.config
+D:\Visual_Studio_Projects\Security App\WPF Camera App\WPF Camera App\bin\Debug\WPF Camera App.exe.config
